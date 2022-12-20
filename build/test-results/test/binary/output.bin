@@ -1,0 +1,74 @@
+Request method:	GET
+DRequest URI:	https://jsonplaceholder.typicode.com/posts/1/comments
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+%Date: Tue, 20 Dec 2022 13:47:23 GMT
+/Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 998
+X-Ratelimit-Reset: 1671491569
+Vary: Origin, Accept-Encoding
+(Access-Control-Allow-Credentials: true
+Cache-Control: max-age=43200
+Pragma: no-cache
+Expires: -1
+!X-Content-Type-Options: nosniff
++Etag: W/"5e6-4bSPS5tq8F8ZDeFJULWh6upjp7U"
+Content-Encoding: gzip
+Via: 1.1 vegur
+CF-Cache-Status: REVALIDATED
+4Server-Timing: cf-q-config;dur=7.0000096457079e-06
+’Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gtwJEWYPRSYXTVx7TjcS%2F2ltUgTlaF1UAR2O5Q3vOPjhI4kJRvB7eS%2Be4qi4ASxOzZg0NQBVfb4z1jxg%2FDBS3C8Iv4Gdq3vQf0NHH62ukYSX76HdB0lo481pLizaKFHua%2FYMj4MZHDOSwIsI3KsJ"}],"group":"cf-nel","max_age":604800}
+CNEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 77c8d45ca83909c2-MIA
+6alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+[
+    {
+        "postId": 1,
+        "id": 1,
+0        "name": "id labore ex et quam laborum",
+'        "email": "Eliseo@gardner.biz",
+ª        "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    {
+        "postId": 1,
+        "id": 2,
+=        "name": "quo vero reiciendis velit similique earum",
++        "email": "Jayne_Kuhic@sydney.com",
+¾        "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+    },
+    {
+        "postId": 1,
+        "id": 3,
+1        "name": "odio adipisci rerum aut animi",
+(        "email": "Nikita@garfield.biz",
+ð        "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+    },
+    {
+        "postId": 1,
+        "id": 4,
+"        "name": "alias odio sit",
+"        "email": "Lew@alysha.tv",
+°        "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+    },
+    {
+        "postId": 1,
+        "id": 5,
+9        "name": "vero eaque aliquid doloribus et culpa",
+&        "email": "Hayden@althea.biz",
+š        "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+    }
+]
